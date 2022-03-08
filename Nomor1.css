@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+label{
+    line-height: 40px;
+}
+input.npm{
+    width: 1000px;
+}
+input.nama{
+    width: 1000px;
+}
+input.alamat{
+    width: 1000px;
+    line-height: 80px;
+}
